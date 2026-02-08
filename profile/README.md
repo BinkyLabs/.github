@@ -21,6 +21,10 @@ BinkyLabs is a GitHub organization dedicated to open-source API tooling projects
 
 - [OpenAI analyzers](https://github.com/BinkyLabs/openai-analyzers). Dotnet analyzers packed with best practices for security and performance when integrating with OpenAI APIs.
 
+### Noteable contributions
+
+- [Implemented OpenAPI 3.2.0 support in Microsoft.OpenAPI](https://github.com/microsoft/OpenAPI.NET/pull/2529).
+
 ### About us
 
 **Work on these projects is done on our personal time outside of our "day-time" jobs.**
