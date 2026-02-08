@@ -4,8 +4,8 @@ BinkyLabs is a GitHub organization dedicated to open-source API tooling projects
 
 ### Key members
 
-- @baywet
-- @kilifu
+- [@baywet](https://github.com/baywet)
+- [@kilifu](https://github.com/kilifu)
 
 ### OpenAPI ecosystem
 
